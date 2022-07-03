@@ -12,4 +12,4 @@ un sketch limpio y una libreria de sonidos  y correr el js desde un html.
 
 
  <img src="https://github.com/josejoelL/ITC-Graficacion-Workspace/blob/master/U2-3D/mobile.gif" 
- width="280" height="720">
+ width="300" height="450">
