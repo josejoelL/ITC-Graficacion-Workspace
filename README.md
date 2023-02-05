@@ -1,8 +1,10 @@
-### ITC-Graficacion-Workspace
-trabajos hechos en la materia de graficacion 
+### ITC-Grafication-Workspace
 
-Para que sirvan tienes que tener una carpeta con las librerias de P5js
-un sketch limpio y una libreria de sonidos  y correr el js desde un html.
+In this space you can find some work for the subject of Grafication 
+
+I was using the library p5js 
+
+to run you should have a blank sketch with the library
 
 
 ## Table of Contents
